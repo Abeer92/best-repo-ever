@@ -1,3 +1,3 @@
 # best-repo-ever
-Branch 2 Change
+Branch 1 Commit
 My First Commit using Git!
